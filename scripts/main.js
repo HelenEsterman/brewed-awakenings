@@ -18,7 +18,7 @@ const applicationHTML = `
 </article>
 
 <article class="orders">
-    <h2 id= "center" >Orders</h2>
+    <h2>Orders</h2>
     ${Orders()}
 </article>
 `
