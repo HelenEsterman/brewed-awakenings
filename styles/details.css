@@ -5,14 +5,20 @@
 }
 
 .detail--column {
-    flex-basis: 24%;
+    flex-basis: 16%;
     margin: 0 2rem;
-    padding: 1rem;
+    padding-left: 1rem;
     border: 1px dotted goldenrod;
+    align-content: center;
+    height: 300px;
+    padding-right: -1rem;
+    padding-top: 1.5rem;
 }
 
 .orders {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
